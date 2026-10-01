@@ -1,0 +1,6 @@
+@TravelOptimizer.API_HostAddress = http://localhost:5152
+
+GET {{TravelOptimizer.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
